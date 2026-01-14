@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Uber Fare Prediction
 
 This project predicts Uber ride fares using linear regression and feature engineering.
@@ -19,6 +19,7 @@ Given pickup and dropoff coordinates, time of day, and passenger count, predict 
 
 pip install -r requirements.txt
 python train_linear_regression.py
+
 =======
 # Uber Fare Prediction
 
@@ -37,4 +38,3 @@ This project predicts Uber ride fares using linear regression and feature engine
 ```bash
 pip install -r requirements.txt
 python train_linear_regression.py
->>>>>>> Stashed changes
