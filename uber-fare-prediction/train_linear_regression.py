@@ -70,5 +70,5 @@ print(f"RMSE: ${rmse:.2f}")
 print(f"Coefficients: {dict(zip(features, model.coef_))}")
 print(f"Intercept: ${model.intercept_:.2f}")
 
-# Expected output: R² ~0.65-0.75, RMSE ~$4-6
+
 
